@@ -21,10 +21,7 @@ protocol ___FILEBASENAMEASIDENTIFIER___ViewControllerOutput
     func doSomething(request: ___FILEBASENAMEASIDENTIFIER___.Request)
 }
 
-
-// ============================================================================= //
 // MARK: - ___FILEBASENAMEASIDENTIFIER___ViewController Class Definition
-// ============================================================================= //
 class ___FILEBASENAMEASIDENTIFIER___ViewController: UITableViewController, ___FILEBASENAMEASIDENTIFIER___ViewControllerInput
 {
     var output: ___FILEBASENAMEASIDENTIFIER___ViewControllerOutput!

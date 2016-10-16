@@ -13,7 +13,7 @@ import UIKit
 
 extension ___FILEBASENAMEASIDENTIFIER___ViewController: ___FILEBASENAMEASIDENTIFIER___PresenterOutput
 {
-    override func prepare(for segue: UIStoryboardSegue, sender: AnyObject?)
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?)
     {
         router.passDataToNextScene(segue:segue)
     }
@@ -30,9 +30,7 @@ extension ___FILEBASENAMEASIDENTIFIER___Presenter: ___FILEBASENAMEASIDENTIFIER__
 
 
 
-// ============================================================================= //
 // MARK: - ___FILEBASENAMEASIDENTIFIER___Configurator Class Definition
-// ============================================================================= //
 
 class ___FILEBASENAMEASIDENTIFIER___Configurator
 {

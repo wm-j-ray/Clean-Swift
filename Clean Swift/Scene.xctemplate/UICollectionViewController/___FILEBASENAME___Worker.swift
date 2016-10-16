@@ -9,10 +9,7 @@
 
 import UIKit
 
-// ============================================================================= //
 // MARK: - ___FILEBASENAMEASIDENTIFIER___Worker Class Definition
-// ============================================================================= //
-
 class ___FILEBASENAMEASIDENTIFIER___Worker
 {
     // MARK: Business Logic

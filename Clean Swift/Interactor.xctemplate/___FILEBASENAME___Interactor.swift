@@ -20,10 +20,7 @@ protocol ___FILEBASENAMEASIDENTIFIER___InteractorOutput
 }
 
 
-
-// ============================================================================= //
 // MARK: - ___FILEBASENAMEASIDENTIFIER___Interactor Class Definition
-// ============================================================================= //
 
 class ___FILEBASENAMEASIDENTIFIER___Interactor: ___FILEBASENAMEASIDENTIFIER___InteractorInput
 {

@@ -20,11 +20,7 @@ protocol ___FILEBASENAMEASIDENTIFIER___PresenterOutput: class
 }
 
 
-
-// ============================================================================= //
 // MARK: - ___FILEBASENAMEASIDENTIFIER___Presenter Class Definition
-// ============================================================================= //
-
 class ___FILEBASENAMEASIDENTIFIER___Presenter: ___FILEBASENAMEASIDENTIFIER___PresenterInput
 {
     weak var output: ___FILEBASENAMEASIDENTIFIER___PresenterOutput!

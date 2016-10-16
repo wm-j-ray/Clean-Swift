@@ -15,9 +15,7 @@ protocol ___FILEBASENAMEASIDENTIFIER___RouterInput
 }
 
 
-// ============================================================================= //
 // MARK: - ___FILEBASENAMEASIDENTIFIER___Router Class Definition
-// ============================================================================= //
 class ___FILEBASENAMEASIDENTIFIER___Router: ___FILEBASENAMEASIDENTIFIER___RouterInput
 {
     weak var viewController: ___FILEBASENAMEASIDENTIFIER___ViewController!

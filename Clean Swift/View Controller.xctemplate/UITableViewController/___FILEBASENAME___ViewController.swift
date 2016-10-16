@@ -22,9 +22,8 @@ protocol ___FILEBASENAMEASIDENTIFIER___ViewControllerOutput
 }
 
 
-// ============================================================================= //
+
 // MARK: - ___FILEBASENAMEASIDENTIFIER___ViewController Class Definition
-// ============================================================================= //
 class ___FILEBASENAMEASIDENTIFIER___ViewController: UITableViewController, ___FILEBASENAMEASIDENTIFIER___ViewControllerInput
 {
     var output: ___FILEBASENAMEASIDENTIFIER___ViewControllerOutput!
