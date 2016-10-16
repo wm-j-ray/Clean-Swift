@@ -28,12 +28,7 @@ extension ___FILEBASENAMEASIDENTIFIER___Presenter: ___FILEBASENAMEASIDENTIFIER__
 }
 
 
-
-
-// ============================================================================= //
 // MARK: - ___FILEBASENAMEASIDENTIFIER___Configurator Class Definition
-// ============================================================================= //
-
 class ___FILEBASENAMEASIDENTIFIER___Configurator
 {
     // MARK: Object lifecycle
